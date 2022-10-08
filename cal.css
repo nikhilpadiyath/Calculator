@@ -1,25 +1,25 @@
-body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    width: 100vw;
-    height: 100vh;
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
 }
 
-.btn{
-    height: 75px;
-    width: 75px;
-    margin: 15px;
-    font-size: 40px;
+.btn {
+  height: 75px;
+  width: 75px;
+  margin: 15px;
+  font-size: 40px;
 }
 
-.number{
-    border: 1px solid green;
-    border-radius: 10px;
+.number {
+  border: 1px solid green;
+  border-radius: 10px;
 }
 
-.operator{
-    border: 1px solid blue;
-    border-radius: 10px;
+.operator {
+  border: 1px solid blue;
+  border-radius: 10px;
 }
